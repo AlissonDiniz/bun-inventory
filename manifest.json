@@ -51,7 +51,7 @@
       "purpose": "any"
     }
   ],
-  "start_url": "/index.html",
+  "start_url": "/bun-inventory/index.html",
   "scope": ".",
   "display": "standalone",
   "orientation": "portrait-primary",
