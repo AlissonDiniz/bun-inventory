@@ -55,8 +55,8 @@
   "scope": ".",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "theme_color": "#fff",
-  "background_color": "#fff",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
   "description": "PWA para gerenciar o inventário",
   "dir": "ltr",
   "lang": "pt-BR"
